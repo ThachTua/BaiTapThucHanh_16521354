@@ -28,14 +28,27 @@ namespace FormsExample.Droid
 		{
 		}
 		
+		public partial class Attribute
+		{
+			
+			static Attribute()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Attribute()
+			{
+			}
+		}
+		
 		public partial class Drawable
 		{
 			
-			// aapt resource value: 0x7F010002
-			public const int icon = 2130771970;
+			// aapt resource value: 0x7F010000
+			public const int icon = 2130771968;
 			
-			// aapt resource value: 0x7F010003
-			public const int monkey = 2130771971;
+			// aapt resource value: 0x7F010001
+			public const int monkey = 2130771969;
 			
 			static Drawable()
 			{

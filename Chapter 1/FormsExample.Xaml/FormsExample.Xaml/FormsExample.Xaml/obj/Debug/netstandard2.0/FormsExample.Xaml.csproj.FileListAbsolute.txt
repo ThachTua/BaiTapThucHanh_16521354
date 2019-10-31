@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\GitHub\BaiTapThucHanh_16521354\Chapter 1\FormsExample.Xaml\FormsExample.Xaml\FormsExample.Xaml\bin\Debug\netstandard2.0\FormsExample.Xaml.deps.json
+C:\Users\Dell\Documents\GitHub\BaiTapThucHanh_16521354\Chapter 1\FormsExample.Xaml\FormsExample.Xaml\FormsExample.Xaml\bin\Debug\netstandard2.0\FormsExample.Xaml.dll
+C:\Users\Dell\Documents\GitHub\BaiTapThucHanh_16521354\Chapter 1\FormsExample.Xaml\FormsExample.Xaml\FormsExample.Xaml\bin\Debug\netstandard2.0\FormsExample.Xaml.pdb
+C:\Users\Dell\Documents\GitHub\BaiTapThucHanh_16521354\Chapter 1\FormsExample.Xaml\FormsExample.Xaml\FormsExample.Xaml\obj\Debug\netstandard2.0\FormsExample.Xaml.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\BaiTapThucHanh_16521354\Chapter 1\FormsExample.Xaml\FormsExample.Xaml\FormsExample.Xaml\obj\Debug\netstandard2.0\FormsExample.Xaml.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\BaiTapThucHanh_16521354\Chapter 1\FormsExample.Xaml\FormsExample.Xaml\FormsExample.Xaml\obj\Debug\netstandard2.0\FormsExample.Xaml.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\BaiTapThucHanh_16521354\Chapter 1\FormsExample.Xaml\FormsExample.Xaml\FormsExample.Xaml\obj\Debug\netstandard2.0\FormsExample.Xaml.dll
+C:\Users\Dell\Documents\GitHub\BaiTapThucHanh_16521354\Chapter 1\FormsExample.Xaml\FormsExample.Xaml\FormsExample.Xaml\obj\Debug\netstandard2.0\FormsExample.Xaml.pdb
